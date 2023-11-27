@@ -77,7 +77,7 @@ def get_historical_klines(symbol, interval, start_str, end_str=None):
 
     """
     # create the Binance client, no need for api key
-    client = Client("", "")
+    client = Client("TZMRhu3cCUTLl3YBXengnD19uSbZrLkhpoSLhq3w8WujtDLksxzA2gippyKTjTic", "cQN8jieBxyoaxb4FDRr6oHO6feKl7pQwYKvVLreBFJgovcmlqWNymOl2g8sHNKVC")
 
     # init our list
     output_data = []
